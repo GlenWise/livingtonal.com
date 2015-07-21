@@ -1,2 +1,2 @@
 # livingtonal.com
-Website for Living Tonal
+Website for LIVINGTONAL written by Glen Wise at GlenWise.com
